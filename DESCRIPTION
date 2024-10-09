@@ -1,0 +1,11 @@
+Package: dlm
+Type: Package
+Title: Generate samples
+Version: 1.0
+Date: 2024-10-09
+Author: Lanya Yang
+Maintainer: Lanya Yang <yangl35@lancaster.ac.uk>
+Description: Generate samples
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.12)
+LinkingTo: Rcpp
